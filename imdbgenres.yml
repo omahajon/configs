@@ -46,12 +46,6 @@ collections:
   Fantasy:
     template: { name: IMDb Genre, genre: fantasy }
     summary: Fantasy film is a genre that incorporates imaginative and fantastic themes. These themes usually involve magic, supernatural events, or fantasy worlds. Although it is its own distinct genre, these films can overlap into the horror and science fiction genres. Unlike science fiction, a fantasy film does not need to be rooted in fact. This element allows the audience to be transported into a new and unique world. Often, these films center on an ordinary hero in an extraordinary situation.
-  Gangster:
-    template: { name: Other Genre }
-    imdb_list:
-      - https://www.imdb.com/list/ls026270180/
-      - https://www.imdb.com/list/ls000093502/
-    summary: Gangster film is a sub-genre of crime films that center on organized crime or the mafia. Often the plot revolves around the rise and fall of an organized crime leader. Many Gangster films explore the destructive nature of organized crime, while others attempt to show the humanity of the individual characters.
   History:
     template: { name: IMDb Genre, genre: history }
     summary: History film is a genre that takes historical events and people and interprets them in a larger scale. Historical accuracy is not the main focus, but rather the telling of a grandiose story. The drama of an History film is often accentuated by a sweeping musical score, lavish costumes, and high production value.
@@ -79,12 +73,6 @@ collections:
   Mystery:
     template: { name: IMDb Genre, genre: mystery }
     summary: A Mystery film centers on a person of authority, usually a detective, that is trying to solve a mysterious crime. The main protagonist uses clues, investigation, and logical reasoning. The biggest element in these films is a sense of “whodunit” suspense, usually created through visual cues and unusual plot twists.
-  Pandemic:
-    template: { name: Other Genre }
-    imdb_list:
-      - url: https://www.imdb.com/list/ls041901506/
-      - url: https://www.imdb.com/list/ls092321048/
-    summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
   Romance:
     template: { name: IMDb Genre, genre: romance, limit: 200 }
     summary: "Romance film can be defined as a genre wherein the plot revolves around the love between two protagonists. This genre usually has a theme that explores an issue within love, including but not limited to: love at first sight, forbidden love, love triangles, and sacrificial love. The tone of Romance film can vary greatly. Whether the end is happy or tragic, Romance film aims to evoke strong emotions in the audience."
